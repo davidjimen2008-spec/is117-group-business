@@ -1,6 +1,6 @@
 # Peer Review & Team Contributions
 
-**Status:** Awaiting real teammate identities, actual research/review contributions and peer feedback. This page intentionally does not fabricate participation.
+**Status:** Initial AI-assisted research and source cross-check documented; awaiting real peer feedback and each member's independent contribution. This page intentionally does not fabricate participation.
 
 ## Shared project
 
@@ -13,8 +13,8 @@
 
 | Member name | GitHub username | Actual research / review / decision contribution | Commit, PR or issue link |
 | --- | --- | --- | --- |
-| **Pending confirmation** | **Pending** | Initial research draft prepared with AI assistance; human review and attribution pending. | [Repository commits](https://github.com/davidjimen2008-spec/is117-group-business/commits/main/) |
-| **Add real member** | **Pending** | **Not yet recorded** | **Pending** |
+| David | [@davidjimen2008-spec](https://github.com/davidjimen2008-spec) | Repository created under David's account; AI-assisted VitePress setup, draft research and source cross-check committed using the connected account. David's independent approval/review is pending. | [Repository commits](https://github.com/davidjimen2008-spec/is117-group-business/commits/main/) |
+| Shakti | [@Shakti2008](https://github.com/Shakti2008) | **Pending Shakti's own research/review contribution**; no activity attributed without evidence. | **Pending** |
 
 **AI assistance disclosure:** An AI assistant helped prepare the initial VitePress setup, competitor-source summaries and proposed design choices on November 14, 2026. The team must check claims against linked original sources, correct errors and record who approved decisions.
 
