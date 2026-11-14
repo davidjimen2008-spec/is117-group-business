@@ -1,6 +1,6 @@
 # Research → Decisions → Checks
 
-**State:** Proposals, not verified product outcomes. Source access checked November 14, 2026.
+**State:** Proposals, not verified product outcomes. Provider descriptions cross-checked November 14, 2026; Wyzant via indexed source text, other two via opened pages. No user or prototype tests conducted.
 
 | Finding (linked evidence) | Assumption / limitation | Proposed design decision | Planned verification | Result |
 | --- | --- | --- | --- | --- |
@@ -23,3 +23,7 @@
 6. Report the check performed and its observed outcome; request reviewer retry before closing accepted fixes.
 
 **No customer interviews, review outcomes or test passes have been recorded.**
+
+## Additional source distinction
+
+Wyzant offers both tutor-contact/request workflows and [Instant Book](https://support.wyzant.com/students-parents/find-a-tutor/instant-book-faqs-for-students/). We chose **request → pending → accepted** as a proposed initial flow, not because this is the only competitor pattern. A peer should challenge whether an instant-book option better suits time-constrained students. **Status: question open, not user-tested.**
