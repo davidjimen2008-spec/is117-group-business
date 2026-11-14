@@ -24,3 +24,5 @@ Under **Settings → Pages → Build and deployment**, select **GitHub Actions**
 Research is an initial, AI-assisted desk-review draft dated November 14, 2026. Team identities, individual contributions, peer issue, feedback, linked revision, verification and reviewer retry must be added from actual work. All personas are hypothetical. No user research or testing has been performed.
 
 **Deadline:** Monday, November 16, 2026, 11:30 a.m. ET.
+
+<!-- Trigger Pages deployment after GitHub Pages was enabled; 2026-11-14. -->
