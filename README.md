@@ -10,7 +10,7 @@ A shared research and documentation project for a proposed college tutoring plat
 ## Run locally
 
 ```bash
-npm ci
+npm install
 npm run docs:dev
 npm run docs:build
 ```
