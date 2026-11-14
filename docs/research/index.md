@@ -4,7 +4,7 @@
 
 **Scope:** One workflow: choose subject → inspect tutor details → request a time → receive confirmation. This is a proposed workflow, **not a built or tested feature**.
 
-**Method:** Desk review of three providers' own published descriptions, accessed **November 14, 2026**. These are provider statements, not independent performance measurements. No real students were interviewed and no conversion or satisfaction results were measured.
+**Method:** Desk review of three providers' own published descriptions, reviewed **November 14, 2026**. These are provider statements, not independent performance measurements. No real students were interviewed and no conversion or satisfaction results were measured.
 
 ## Three references: evidence versus implications
 
@@ -46,3 +46,15 @@
 - Is the requested session understandable as pending? **Planned check:** ask a peer to walk through a prototype; not yet conducted.
 
 See [decisions and verification plan](/research/decisions) and [review log](/review/).
+
+## Source verification log — November 14, 2026
+
+The AI assistant rechecked the three original provider pages (Wyzant was retrievable via indexed search results rather than direct page fetch). This verifies that the **provider descriptions** support the listed observations; it does **not** verify user demand, business viability, or any product test.
+
+| Source | Check performed | Observed outcome | Limit |
+| --- | --- | --- | --- |
+| [Wyzant: How does Wyzant work?](https://support.wyzant.com/students-parents/find-a-tutor/how-does-wyzant-work/) | Compared source text returned in search results to research claim. | Search/filter, tutor credentials/reviews/schedules, messaging and booking are described. | Direct page fetch unavailable in this check; teammate should open the original URL independently. |
+| [Varsity Tutors: How We Operate](https://www.varsitytutors.com/how-we-operate) | Read provider page, especially the process section. | Education consultants help select tutors, tutor contacts student to arrange sessions, online learning platform described. | Self-reported service process; not evidence of effectiveness. |
+| [Tutor.com: FAQ](https://www.tutor.com/FAQ) | Read provider FAQ. | Institutional access, on-demand and scheduled sessions, browser-based classroom are described. | Self-reported service process; not evidence of customer preference. |
+
+**Correction/clarification:** Wyzant also describes an Instant Book option; our proposed *pending request* flow is a deliberate narrower design choice, not a claim that all competitors require manual confirmation. [Wyzant's scheduling help](https://support.wyzant.com/students-parents/lessons/how-do-i-schedule-a-lesson-with-my-tutor/) distinguishes suggested lesson requests from confirmed bookings. No mockups or user tests have been completed.
