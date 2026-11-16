@@ -27,3 +27,12 @@
 ## Additional source distinction
 
 Wyzant offers both tutor-contact/request workflows and [Instant Book](https://support.wyzant.com/students-parents/find-a-tutor/instant-book-faqs-for-students/). We chose **request → pending → accepted** as a proposed initial flow, not because this is the only competitor pattern. A peer should challenge whether an instant-book option better suits time-constrained students. **Status: question open, not user-tested.**
+
+## Issue #2 integration decisions — Nov 16, 2026
+
+- **Implement:** Link Shakti's committed research in the official shared record, add her two adjacent university role references, and preserve their evidence limitations. [Shakti's commit](https://github.com/davidjimen2008-spec/is117-group-business/commit/2387c89).
+- **Implement:** Explicitly distinguish **Requested/Pending**, **Confirmed/Accepted**, and **Declined**. Instant booking is an alternative, not the current scope.
+- **Implement:** Compare first-time and returning-learner hypothetical personas without presenting either as validated.
+- **Defer:** Automated guided matching, instant booking and repeat-booking implementation pending actual student input and a later planning/build milestone.
+- **Check performed:** Compared Shakti's committed Markdown and issue comments with the updated research/decision text; checked that claims remain labeled as inference and checks as planned. **Not** a prototype test or independent verification of Clemson/IVCC source contents.
+- **Pending:** Shakti's independent source verification and reviewer retry, plus David's personal confirmation of the proposed decision.
