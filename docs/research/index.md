@@ -58,3 +58,29 @@ The AI assistant rechecked the three original provider pages (Wyzant was retriev
 | [Tutor.com: FAQ](https://www.tutor.com/FAQ) | Read provider FAQ. | Institutional access, on-demand and scheduled sessions, browser-based classroom are described. | Self-reported service process; not evidence of customer preference. |
 
 **Correction/clarification:** Wyzant also describes an Instant Book option; our proposed *pending request* flow is a deliberate narrower design choice, not a claim that all competitors require manual confirmation. [Wyzant's scheduling help](https://support.wyzant.com/students-parents/lessons/how-do-i-schedule-a-lesson-with-my-tutor/) distinguishes suggested lesson requests from confirmed bookings. No mockups or user tests have been completed.
+
+## Integration of Shakti's independent research — November 16, 2026 (Issue #2)
+
+Shakti contributed [her own research document](/research/shakti-contribution) in [commit 2387c89](https://github.com/davidjimen2008-spec/is117-group-business/commit/2387c89), developed from [her separate research repository](https://github.com/Shakti2008/tutorconnect-group-business). This section integrates rather than duplicates the team's shared findings.
+
+**Project name:** The official shared documentation uses **Campus Tutor Connect**. “TutorConnect” in Shakti's original research is treated as a short working name for the same proposed concept; this is a documentation convention pending explicit team approval, not evidence of a team vote.
+
+### Two additional adjacent references from Shakti
+
+| Source (included in review Nov 16, 2026) | Evidence type and limit | Interpretation → proposed decision → planned check |
+| --- | --- | --- |
+| [Clemson University — Peer WISE Lead Tutor, Spring 2027](https://career.clemson.edu/jobs/clemson-university-peer-wise-lead-tutor-spring-2027/) | University tutoring-related role listing, not student preference research; original content still requires independent source verification. | **Inference:** subject expertise and tutoring experience may matter → show clearly sourced qualifications → ask a reviewer which profile details explain tutor suitability. **Not tested.** |
+| [Illinois Valley Community College — Campus and Community Tutoring Coordinator position description](https://www.ivcc.edu/humanresources/jobdescriptions/Campus_and_Community_Tutoring_Coordinator.pdf) | Position description, **not a verified current vacancy**; original content still requires independent source verification. | **Inference:** coordination and schedule accuracy may matter → show session status and availability → ask a reviewer to explain each booking state. **Not tested.** |
+
+### Persona alternatives — hypotheses, not customer evidence
+
+- **First-time tutoring seeker (initial draft):** may need extra context about credentials and choosing a tutor.
+- **Returning learner (Shakti's contribution):** may want to find the same tutor and arrange repeat sessions.
+
+Both are unvalidated and may coexist. The initial search-first concept will support basic tutor selection; repeat-booking and guided matching remain **future possibilities**, not implemented features. **Planned check:** show both scenarios to volunteers and ask which information they need; record actual responses before deciding.
+
+### Booking status and alternative
+
+**Proposed first release:** Subject search → tutor comparison → **Requested/Pending** → tutor accepts → **Confirmed/Accepted** (or declines → **Declined**). A request is not a confirmed booking. [Wyzant Instant Book](https://support.wyzant.com/students-parents/find-a-tutor/instant-book-faqs-for-students/) illustrates an alternative with faster confirmation; the choice of pending requests is a limited scope decision, not a proven student preference.
+
+**Neutral test question (not administered):** “Which approach would you choose for help needed tomorrow, and why?” Compare pending requests, instant booking and guided matching without leading respondents.
