@@ -70,7 +70,7 @@ Shakti contributed [her own research document](/research/shakti-contribution) in
 | Source (included in review Nov 16, 2026) | Evidence type and limit | Interpretation → proposed decision → planned check |
 | --- | --- | --- |
 | [Clemson University — Peer WISE Lead Tutor, Spring 2027](https://career.clemson.edu/jobs/clemson-university-peer-wise-lead-tutor-spring-2027/) | University tutoring-related role listing, not student preference research; original content still requires independent source verification. | **Inference:** subject expertise and tutoring experience may matter → show clearly sourced qualifications → ask a reviewer which profile details explain tutor suitability. **Not tested.** |
-| [Illinois Valley Community College — Campus and Community Tutoring Coordinator position description](https://www.ivcc.edu/humanresources/jobdescriptions/Campus_and_Community_Tutoring_Coordinator.pdf) | Position description, **not a verified current vacancy**; original content still requires independent source verification. | **Inference:** coordination and schedule accuracy may matter → show session status and availability → ask a reviewer to explain each booking state. **Not tested.** |
+| [Illinois Valley Community College — Professional Tutor, Peer Tutoring Center position description](https://www.ivcc.edu/humanresources/jobdescriptions/level8/Professional_Tutor_Peer_Tutoring_Center.pdf) | Position description, **not a verified current vacancy**; original content still requires independent source verification. | **Inference:** coordination and schedule accuracy may matter → show session status and availability → ask a reviewer to explain each booking state. **Not tested.** |
 
 ### Persona alternatives — hypotheses, not customer evidence
 
