@@ -51,9 +51,9 @@ This tutoring-related position informed our proposed inclusion of subject expert
 
 **Proposed decision:** TutorConnect should help students understand a tutor's relevant experience without presenting unverified qualifications as verified.
 
-### Illinois Valley Community College — Campus and Community Tutoring Coordinator
+### Illinois Valley Community College — Professional Tutor, Peer Tutoring Center
 
-**Source:** https://www.ivcc.edu/humanresources/jobdescriptions/Campus_and_Community_Tutoring_Coordinator.pdf
+**Source:** https://www.ivcc.edu/humanresources/jobdescriptions/level8/Professional_Tutor_Peer_Tutoring_Center.pdf
 
 This professional position description highlights tutoring coordination and academic support operations. It is not presented as a verified current job opening.
 
